@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 testqweqweasdasd
+=======
+test
+git/testst
+>>>>>>> origin/main
