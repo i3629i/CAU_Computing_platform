@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 test
-=======
-qweqweqweasdasd
->>>>>>> refs/remotes/origin/main
