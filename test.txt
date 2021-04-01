@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-testqweqweasdasd
-=======
-test
-git/testst
->>>>>>> origin/main
+//online test
+testtest
